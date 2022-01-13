@@ -1,16 +1,18 @@
 {
   "files": {
-    "main.css": "/Intelliatech-Employee-Portal/static/css/main.073c9b0a.css",
-    "main.js": "/Intelliatech-Employee-Portal/static/js/main.6c937f93.js",
-    "static/js/787.dc6441a3.chunk.js": "/Intelliatech-Employee-Portal/static/js/787.dc6441a3.chunk.js",
-    "static/media/loading.gif": "/Intelliatech-Employee-Portal/static/media/loading.3c3afa39793b452c1f87.gif",
+    "main.css": "/Intelliatech-Employee-Portal/static/css/main.d1b05096.chunk.css",
+    "main.js": "/Intelliatech-Employee-Portal/static/js/main.5aa064cd.chunk.js",
+    "main.js.map": "/Intelliatech-Employee-Portal/static/js/main.5aa064cd.chunk.js.map",
+    "runtime~main.js": "/Intelliatech-Employee-Portal/static/js/runtime~main.bef2fea3.js",
+    "runtime~main.js.map": "/Intelliatech-Employee-Portal/static/js/runtime~main.bef2fea3.js.map",
+    "static/js/2.52c095c2.chunk.js": "/Intelliatech-Employee-Portal/static/js/2.52c095c2.chunk.js",
+    "static/js/2.52c095c2.chunk.js.map": "/Intelliatech-Employee-Portal/static/js/2.52c095c2.chunk.js.map",
+    "static/js/3.6f05c816.chunk.js": "/Intelliatech-Employee-Portal/static/js/3.6f05c816.chunk.js",
+    "static/js/3.6f05c816.chunk.js.map": "/Intelliatech-Employee-Portal/static/js/3.6f05c816.chunk.js.map",
     "index.html": "/Intelliatech-Employee-Portal/index.html",
-    "main.073c9b0a.css.map": "/Intelliatech-Employee-Portal/static/css/main.073c9b0a.css.map",
-    "main.6c937f93.js.map": "/Intelliatech-Employee-Portal/static/js/main.6c937f93.js.map",
-    "787.dc6441a3.chunk.js.map": "/Intelliatech-Employee-Portal/static/js/787.dc6441a3.chunk.js.map"
-  },
-  "entrypoints": [
-    "static/css/main.073c9b0a.css",
-    "static/js/main.6c937f93.js"
-  ]
+    "precache-manifest.a6ee632322cb6d6d864b415a58e05b10.js": "/Intelliatech-Employee-Portal/precache-manifest.a6ee632322cb6d6d864b415a58e05b10.js",
+    "service-worker.js": "/Intelliatech-Employee-Portal/service-worker.js",
+    "static/css/main.d1b05096.chunk.css.map": "/Intelliatech-Employee-Portal/static/css/main.d1b05096.chunk.css.map",
+    "static/media/loading.gif": "/Intelliatech-Employee-Portal/static/media/loading.a2a60676.gif"
+  }
 }
