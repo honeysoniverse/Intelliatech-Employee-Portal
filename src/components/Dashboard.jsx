@@ -96,11 +96,11 @@ const Dashboard = () => {
                 }).then(response => response.json()).then(response => {
                     console.log(response.status);
                     if (response.status == "Success") {
-                        alert("Successful is changed from Honey.....!")
+                        alert("Successful is changed from Shashank.....!")
                     }
 
                     else {
-                        alert("Details not saved....!")
+                        alert("Details not saved from shashank....!")
                     }
 
                 });
