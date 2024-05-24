@@ -96,7 +96,7 @@ const Dashboard = () => {
                 }).then(response => response.json()).then(response => {
                     console.log(response.status);
                     if (response.status == "Success") {
-                        alert("Successful.....!")
+                        alert("Successful is changed.....!")
                     }
 
                     else {
