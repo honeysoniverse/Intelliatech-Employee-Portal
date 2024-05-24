@@ -96,7 +96,7 @@ const Dashboard = () => {
                 }).then(response => response.json()).then(response => {
                     console.log(response.status);
                     if (response.status == "Success") {
-                        alert("Successful is changed.....!")
+                        alert("Successful is changed from Honey.....!")
                     }
 
                     else {
